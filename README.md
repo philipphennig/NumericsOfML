@@ -1,7 +1,7 @@
 # NumericsOfML
 Notes for the Numerics of Machine Learning Lecture Course at the University of Tübingen
 
-This repository allows for easy bulk download of the lecture notes via git clone. If you would like to cite the course, please use the following BibTeX entry:
+This repository simplifies bulk download of the lecture notes via a git clone. To cite the course, please use the following BibTeX block:
 
 ```
 @techreport{NoML22,
