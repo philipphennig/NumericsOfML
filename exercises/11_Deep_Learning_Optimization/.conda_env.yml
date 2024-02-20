@@ -1,0 +1,13 @@
+name: noml
+dependencies:
+  - pip
+  - python=3.10
+  - numpy
+  - scipy
+  - seaborn
+  - pytorch::pytorch
+  - pytorch::torchvision
+  - conda-forge::jupyterlab
+  - conda-forge::matplotlib
+  - pip:
+      - cockpit-for-pytorch
